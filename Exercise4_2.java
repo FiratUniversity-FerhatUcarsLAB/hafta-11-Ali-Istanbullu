@@ -1,3 +1,11 @@
+/*
+ * Ad Soyad: [ALİ İSTANBULLU]
+ * Ogrenci No: [250542019]
+ * Tarih: [30.11.2025]
+ * Aciklama:4.2 tamamlandı
+ *
+ *
+ */
 public class Exercise4_2 { // 1
 
   // Her satirin sonuna calisma sirasi yorumlarini ekleyin.
