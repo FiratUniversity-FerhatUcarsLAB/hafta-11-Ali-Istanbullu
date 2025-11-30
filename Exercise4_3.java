@@ -1,3 +1,11 @@
+/*
+ * Ad Soyad: [ALİ İSTANBULLU]
+ * Ogrenci No: [250542019]
+ * Tarih: [30.11.2025]
+ * Aciklama:4.3 tamamlandı
+ *
+ *
+ */
 public class Exercise4_3 {
 
     public static void zoop() {
@@ -22,3 +30,18 @@ public class Exercise4_3 {
         System.out.println(".");
     }
 }
+//cıktı
+//No, I wug.
+//You wugga wug.
+//I wug.
+//stack diyagramı kutu gibi düşünün
+|-------------------|
+| ping()            |  
+|-------------------|
+| baffle()          |  
+|-------------------|
+| zoop()            | 
+|-------------------|
+| main()            |  
+|-------------------|
+
