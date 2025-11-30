@@ -29,9 +29,13 @@ public class Exercise4_2 { // 1
         }
     }
 }
+//baffle ilk cagırıldıgında blimp = rattle idi
+
 // cıktı 
 //ik
 //rattle
 //ping zoop
 //boo-wa-ha-ha 
 // yapay zeka kullanılmadı
+
+//27,23,22,14 birden fazla cağırıldı
