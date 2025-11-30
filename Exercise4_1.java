@@ -1,3 +1,11 @@
+/*
+ * Ad Soyad: [ALİ İSTANBULLU]
+ * Ogrenci No: [250542019]
+ * Tarih: [30.11.2025]
+ * Aciklama:4.1 tamamlandı
+ *
+ *
+ */
 import java.util.Scanner;
 
 public class Exercise4_1 {
