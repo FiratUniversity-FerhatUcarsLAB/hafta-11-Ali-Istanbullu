@@ -1,23 +1,29 @@
-public class Exercise4_2 {
+public class Exercise4_2 { // 1
 
   // Her satirin sonuna calisma sirasi yorumlarini ekleyin.
 
-    public static void main(String[] args) {
-        zippo("rattle", 13);
+    public static void main(String[] args) { // 2
+        zippo("rattle", 13); // 3 , 17
     }
 
-    public static void baffle(String blimp) {
-        System.out.println(blimp);
-        zippo("ping", -5);
+    public static void baffle(String blimp) { // 9
+        System.out.println(blimp); // 10
+        zippo("ping", -5);// 11
     }
 
-    public static void zippo(String quince, int flag) {
-        if (flag < 0) {
-            System.out.println(quince + " zoop");
-        } else {
-            System.out.println("ik");
-            baffle(quince);
-            System.out.println("boo-wa-ha-ha");
+    public static void zippo(String quince, int flag) { // 4 , 12
+        if (flag < 0) { // 5 , 13
+            System.out.println(quince + " zoop"); // - , 14
+        } else { // 6
+            System.out.println("ik");// 7
+            baffle(quince);// 8 , 15
+            System.out.println("boo-wa-ha-ha"); // 16
         }
     }
 }
+// cıktı 
+//ik
+//rattle
+//ping zoop
+//boo-wa-ha-ha 
+// yapay zeka kullanılmadı
