@@ -1,3 +1,11 @@
+/*
+ * Ad Soyad: [ALİ İSTANBULLU]
+ * Ogrenci No: [250542019]
+ * Tarih: [30.11.2025]
+ * Aciklama:4.5 tamamlandı
+ *
+ *
+ */
 public class Exercise4_5 {
 
     public static void zoop(String fred, int bob) {
@@ -25,3 +33,14 @@ public class Exercise4_5 {
         System.out.println("any " + strangStrung + "more ");
     }
 }
+//just for
+//any not more 
+//It's breakfast 
+//!
+|-----------------------------|
+| Metot: zoop                 | 
+|-----------------------------|
+| Metot: clink                | 
+|-----------------------------|
+| Metot: main                 | 
+|-----------------------------|
